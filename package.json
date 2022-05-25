@@ -1,0 +1,27 @@
+{
+  "name": "@altaks/wynnjs",
+  "version": "1.0.0",
+  "description": "A simple Javascript wrapper for the Wynncraft Minecraft server API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altaks/WynnJS.git"
+  },
+  "keywords": [
+    "Wynncraft",
+    "Minecraft",
+    "api",
+    "package",
+    "npm"
+  ],
+  "type": "module",
+  "author": "Altaks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Altaks/WynnJS/issues"
+  },
+  "homepage": "https://github.com/Altaks/WynnJS#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
