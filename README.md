@@ -1,2 +1,2 @@
-# wynnjs
- A simple Javascript wrapper for the Wynncraft API
+# WynnJS
+A simple Javascript wrapper for the Wynncraft API
